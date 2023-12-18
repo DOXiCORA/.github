@@ -1,6 +1,6 @@
-<div>
+<p align="center">
   <img src="https://github.com/DOXiCORA/.github/blob/2ea94fe2ae6d76a83fcd7fd8285637e27a26f4be/images/doxicora-x.png" width=45%>
-</div>
+</p>
 
 # Welcome to DOXiCORA
 
