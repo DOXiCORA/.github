@@ -1,4 +1,4 @@
-http://doxicora.com/wp-content/uploads/2023/12/x-1.webp
+![DOXiCORA X](https://github.com/DOXiCORA/.github/blob/2ea94fe2ae6d76a83fcd7fd8285637e27a26f4be/images/doxicora-x.png)
 
 # Welcome to DOXiCORA
 
