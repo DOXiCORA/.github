@@ -29,13 +29,13 @@ DOXiCORA specializes in a broad range of technological domains, including:
 
 ## Get in Touch
 
-We're always looking to collaborate on exciting projects or hear about new opportunities. If you're interested in partnering with us or want to learn more about DOXiCORA, please reach out through our [contact page](#http://doxicora.com) or follow us on our social media platforms.
+We're always looking to collaborate on exciting projects or hear about new opportunities. If you're interested in partnering with us or want to learn more about DOXiCORA, please reach out through our [contact page](http://doxicora.com) or follow us on our social media platforms.
 
 We look forward to connecting with you and exploring how we can work together to create a technologically advanced future.
 
 ## Careers
 
-Are you passionate about technology and innovation? Join our team! Check out our [careers page](#http://doxicora.com) for the latest opportunities and become a part of DOXiCORA.
+Are you passionate about technology and innovation? Join our team! Check out our [careers page](http://doxicora.com) for the latest opportunities and become a part of DOXiCORA.
 
 ---
 
