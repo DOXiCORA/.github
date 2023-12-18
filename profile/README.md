@@ -1,4 +1,4 @@
-![DOXiCORA X](https://github.com/DOXiCORA/.github/blob/2ea94fe2ae6d76a83fcd7fd8285637e27a26f4be/images/doxicora-x.png | width=256)
+![DOXiCORA X](https://github.com/DOXiCORA/.github/blob/2ea94fe2ae6d76a83fcd7fd8285637e27a26f4be/images/doxicora-x.png | width=100)
 
 # Welcome to DOXiCORA
 
