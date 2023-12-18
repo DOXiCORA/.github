@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DOXiCORA/.github/blob/2ea94fe2ae6d76a83fcd7fd8285637e27a26f4be/images/doxicora-x.png" width=45%>
+  <img src="https://github.com/DOXiCORA/.github/blob/16f76f29b771e8886218c648fca45a99c1b7b540/images/doxicora-homepage-1.png" width=70%>
 </p>
 
 # Welcome to DOXiCORA
