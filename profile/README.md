@@ -1,3 +1,5 @@
+http://doxicora.com/wp-content/uploads/2023/12/x-1.webp
+
 # Welcome to DOXiCORA
 
 At DOXiCORA, we're at the forefront of innovation, developing cutting-edge solutions for today's technological challenges. Our team is dedicated to pushing the boundaries of what's possible, merging creativity with technology to create a future that's smarter, safer, and more efficient.
